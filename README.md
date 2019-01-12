@@ -22,3 +22,9 @@ Tasks
 -Exploratory data analysis on water quality data
 -Explore relationships between water quality and mortality
 -Explore relationships between water quality and household income
+
+
+Merging the datasets
+Merge on the following columns
+in nitrate data = "PWSID"
+in station tag data "PWS ID"
