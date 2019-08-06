@@ -1,10 +1,11 @@
 # data_analytics_bootcamp_project1
+# Group members
 Sujin Guo
 Eric Franco
 Carlos Maqueda
 
 
-Project Title: US Avocado Market, and Associated Relationships
+## Project Title: US Avocado Market, and Associated Relationships
 
 We propose to use avocado data, reported by the Haas Avocado Company, to evaluate the following:
 
