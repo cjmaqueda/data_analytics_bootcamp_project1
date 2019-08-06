@@ -1,4 +1,4 @@
-# data_analytics_bootcamp_project1
+# Project 1
 # Group members
 Sujin Guo
 Eric Franco
